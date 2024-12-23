@@ -1,4 +1,4 @@
-# Health Companion App
+# SmartWatch Companion App
 
 A Flutter-based smartwatch companion app for health monitoring that integrates with a Bluetooth SDK to fetch real-time health data.
 
